@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/eventsmanager-app/static/css/main.5117f7b3.chunk.css",
+    "main.js": "/eventsmanager-app/static/js/main.929475f3.chunk.js",
+    "main.js.map": "/eventsmanager-app/static/js/main.929475f3.chunk.js.map",
+    "runtime-main.js": "/eventsmanager-app/static/js/runtime-main.1ff7c45c.js",
+    "runtime-main.js.map": "/eventsmanager-app/static/js/runtime-main.1ff7c45c.js.map",
+    "static/js/2.bbe8c1be.chunk.js": "/eventsmanager-app/static/js/2.bbe8c1be.chunk.js",
+    "static/js/2.bbe8c1be.chunk.js.map": "/eventsmanager-app/static/js/2.bbe8c1be.chunk.js.map",
+    "index.html": "/eventsmanager-app/index.html",
+    "precache-manifest.93fb615986dc5718c79b4bf9cb23d6a5.js": "/eventsmanager-app/precache-manifest.93fb615986dc5718c79b4bf9cb23d6a5.js",
+    "service-worker.js": "/eventsmanager-app/service-worker.js",
+    "static/css/main.5117f7b3.chunk.css.map": "/eventsmanager-app/static/css/main.5117f7b3.chunk.css.map",
+    "static/js/2.bbe8c1be.chunk.js.LICENSE.txt": "/eventsmanager-app/static/js/2.bbe8c1be.chunk.js.LICENSE.txt",
+    "static/media/Styles.css": "/eventsmanager-app/static/media/bg.0e221dfe.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ff7c45c.js",
+    "static/js/2.bbe8c1be.chunk.js",
+    "static/css/main.5117f7b3.chunk.css",
+    "static/js/main.929475f3.chunk.js"
+  ]
+}
