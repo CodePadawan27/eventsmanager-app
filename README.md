@@ -1,6 +1,6 @@
 ## Paperrstr Event Manager
 
-![alt text](https://github.com/CodePadawan27/eventsmanager-app/blob/master/src/img/logo.png)
+![alt text](https://github.com/CodePadawan27/eventsmanager-app/blob/master/src/img/logo.PNG)
 
 This a event manager website made with React. Still work to do but groundings are quite ready.
 Used also Font Awesome also to make pretty icons.
