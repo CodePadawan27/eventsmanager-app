@@ -58,7 +58,7 @@ body, html {
     height: 100%;
     top: 0;
     left: 0;
-    background: rgba(100, 52, 128, .7);
+    background: rgba(100, 52, 128, .5);
 }
 
 .advertarea {
@@ -148,6 +148,15 @@ body, html {
     border: none;
     text-align: center;
     font-size: 20px;
+    outline: none;
+    cursor: pointer;
+}
+
+#addfavoriteButton {
+    background-color: Transparent;
+    color: rgba(100, 52, 128, 100);
+    font-size: 20px;
+    border: none;
     outline: none;
 
 }

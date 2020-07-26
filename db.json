@@ -1,0 +1,39 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "How to make paper",
+      "category": "Trainings",
+      "start_time": "1.1.2021, 9.00 am",
+      "end_time": "2020-01-2T17:30:31.098Z"
+    },
+    {
+      "id": 2,
+      "name": "Paper is my life",
+      "category": "Seminars",
+      "start_time": "15.2.2021, 8.00 am",
+      "end_time": "2020-02-16T17:30:31.098Z"
+    },
+    {
+      "id": 3,
+      "name": "Kickstart my paper",
+      "category": "Marketing events",
+      "start_time": "8.3.2021, 9.00 am",
+      "end_time": "2020-03-9T17:30:31.098Z"
+    },
+    {
+      "id": 4,
+      "name": "New event",
+      "category": "Seminars",
+      "start_time": "7.3.2021, 2.00 pm",
+      "end_time": "8.3.2021, 2.00 pm"
+    },
+    {
+      "id": 5,
+      "name": "New event",
+      "category": "Seminars",
+      "start_time": "7.3.2021, 2.00 pm",
+      "end_time": "8.3.2021, 2.00 pm"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ export class MainArea extends Component {
     render() {
         return (
             <div className="mainarea">
-                <div class="overlay">
+                <div className="overlay">
                 </div>              
             </div>
         )
