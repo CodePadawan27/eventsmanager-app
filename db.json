@@ -20,20 +20,6 @@
       "category": "Marketing events",
       "start_time": "8.3.2021, 9.00 am",
       "end_time": "2020-03-9T17:30:31.098Z"
-    },
-    {
-      "id": 4,
-      "name": "New event",
-      "category": "Seminars",
-      "start_time": "7.3.2021, 2.00 pm",
-      "end_time": "8.3.2021, 2.00 pm"
-    },
-    {
-      "id": 5,
-      "name": "New event",
-      "category": "Seminars",
-      "start_time": "7.3.2021, 2.00 pm",
-      "end_time": "8.3.2021, 2.00 pm"
     }
   ]
 }
